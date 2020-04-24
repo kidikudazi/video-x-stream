@@ -1,0 +1,2 @@
+# VideoXStream
+This is an open source video streaming platform which you can coontribute to in order to boost your knowledge and skills on PHP and MYSQL. Feel free to break and fix the broken codes. Find new features that needs to be added contribute.
